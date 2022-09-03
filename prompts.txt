@@ -792,7 +792,6 @@ Matthias Weischer
 John Backderf
 Ahmed Karahisari
 Tom Wänerstrand
-Domirinic Fegallia
 Eugene Leroy
 Nele Zirnite
 Mark Zug
@@ -874,7 +873,7 @@ Joan Mitchell
 Adolph Gottlieb
 Richard Diebenkorn
 Milton Ernest Robert Rauschenberg 
-Elaine Marie Catherine de Kooning
+Elaine de Kooning
 Louise Nevelson
 Agnes Bernice Martin
 Frank Philip Stella
@@ -895,6 +894,27 @@ Laurie Greasley
 koyoharu gotouge
 Pat Presley
 Jim Warren
+Jules Bastien-Lepage
+Joachim Beuckelaer
+Guy Billout
+Ed Binkley
+Olivier Bonhomme
+Krenz Cushart
+Guy Denning
+Atey Ghailan
+Daniel F Gerhartz
+Filip Hodas
+Brad Kunkle
+Barclay Shaw
+Chip Zdarsky
+WLOP
+Yoshiyuki Tomino
 Bernie Wrightson
-Android Jones
-Andrew Jones
+Adam Martinakis
+Shigenori Soejima
+Stanley Artgerm Lau
+Andrei Riabovitchev
+rossdraws
+Sakimichan
+Kunio Okawara
+Milt Kahl
